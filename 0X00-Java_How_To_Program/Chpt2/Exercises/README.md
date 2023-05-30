@@ -42,10 +42,8 @@ the number of zeros input.
 
 ## MAKING A DIFFERENCE
 14. The formulas for calculating BMI are:
-```
-$$
+```math
 BMI = \frac{weightInPounds \times 703}{heightInInches \times heightInInches}
-$$
 ```
 or
 ```
