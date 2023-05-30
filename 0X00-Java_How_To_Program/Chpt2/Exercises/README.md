@@ -46,10 +46,8 @@ the number of zeros input.
 BMI = \frac{weightInPounds \times 703}{heightInInches \times heightInInches}
 ```
 or
-```
-$$
+```math
 BMI = \frac{weightInKilograms}{heightInMeters \times heightInMeters}
-$$
 ```
 Create a BMI calculator that reads the user’s weight in pounds and height in inches (or, if you prefer, the user’s weight in kilograms and height in meters), then calculates and displays the user’s
 body mass index. Also, display the following information from the Department of Health and
